@@ -1,3 +1,3 @@
-# BUSINESS-APP-WITH-RSHINY
+# BUSINESS-DASHBOARD-RSHINY
 
-BI Dashboard for Customer Service
+BI Dashboard for Customer Service through R Shiny
